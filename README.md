@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey, my name is Andrew Puig, the goal i'm striving for is to become a software engineer<br>Computer Science student at FIU<br>Passionate for making fun but also real impacting projects <br>I partake in many random things like fish, cologne, games, movies, tv-shows, manga, and manhwa<br>I'm currently learning more full stack tools like<br>I'm currently working on a Real-Time Traffic Prediction System
+Hey, my name is Andrew Puig, the goal i'm striving for is to become a software engineer<br>Computer Science student at FIU<br>Passionate for making fun but also real impacting projects <br>I partake in many random things like fish, cologne, games, movies, tv-shows, manga, and manhwa
 
 
 ## 🌐 Socials:
