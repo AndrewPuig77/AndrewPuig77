@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Andrew Puig, the goal I'm striving for is to become a software engineer, I'm a Computer Science <br>Student at FIU, I have a passion for making fun but real-word impacting projects. I have many hobbies like fish, cologne,<br>games, movies, tv-shows, manga, manhwa. My most recent project is a inventory management system called Investorage <br>which is a simplified way to manage a warehouse for small to medium scale companies.<br>Send me a message if you want to collaborate on any full stack projects.
+Hey, my name is Andrew Puig, the goal I'm striving for is to become a software engineer, I'm a Computer Science <br>Student at FIU, I have a passion for making fun but real-word impacting projects. I have many hobbies like fish, cologne,<br>games, movies, tv-shows, manga, manhwa. <br>Send me a message if you want to collaborate on any full stack projects.
 
 
 ## 🌐 Socials:
