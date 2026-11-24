@@ -2,7 +2,7 @@
 
 Hey, I'm Andrew Puig — a Computer Science student at Florida International University (FIU) working toward becoming a software engineer. I have a passion for building fun but real-world, impactful projects, and I'm comfortable across both CS theory and applied development. Outside of code, I'm into fish, cologne, games, movies, TV shows, manga, and manhwa. Feel free to reach out if you want to collaborate on anything.
 
--  B.S. in Computer Science @ FIU (Dean's List 2023–present)
+-  B.S. in Computer Science @ FIU 
 
 
 <h2> Socials:</h2>
